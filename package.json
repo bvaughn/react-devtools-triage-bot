@@ -1,8 +1,8 @@
 {
-  "name": "react-devtools-issue-needs-repro-info-bot",
+  "name": "react-devtools-triage-bot",
   "version": "1.0.0",
   "private": true,
-  "description": "Labels and assigns GitHub bug reports for React DevTools that don't include repro info",
+  "description": "Bot for triaging React DevTools bug reports",
   "author": "Brian Vaughn <brian.david.vaughn@gmail.com>",
   "license": "ISC",
   "repository": "https://github.com/bvaughn/react-devtools-issue-needs-repro-info-bot.git",
