@@ -1,0 +1,24 @@
+{
+  "action": "opened",
+  "issue": {
+    "number": 1,
+    "title": "Test issue",
+    "user": {
+      "login": "bvaughn"
+    },
+    "labels": [],
+    "state": "open",
+    "assignee": null,
+    "assignees": [],
+    "body": "Describe what you were doing when the bug occurred:\r\n1. \r\n2. \r\n3. \r\n\r\n---------------------------------------------\r\nPlease do not remove the text below this line\r\n---------------------------------------------\r\n\r\nDevTools version: 4.4.0-f749045a5\r\n\r\nCall stack: at chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js:40:159909\r\n    at Map.forEach (<anonymous>)\r\n    at commitIndex (chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js:40:159855)\r\n    at e.getRankedChartData (chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js:40:160378)\r\n    at Sl (chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js:40:323092)\r\n    at ei (chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js:32:58864)\r\n    at yl (chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js:32:106932)\r\n    at kc (chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js:32:99474)\r\n    at wc (chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js:32:99399)\r\n    at fc (chrome-extension://fmkadmapgofadopljbjfkapdkoienihi/build/main.js:32:96173)\r\n\r\nComponent stack: in Sl\r\n    in div\r\n    in div\r\n    in div\r\n    in vo\r\n    in Unknown\r\n    in n\r\n    in Unknown\r\n    in div\r\n    in div\r\n    in Qi\r\n    in Ve\r\n    in nn\r\n    in Da\r\n    in Yc"
+  },
+  "repository": {
+    "name": "react-devtools-triage-bot",
+    "owner": {
+      "login": "bvaughn"
+    }
+  },
+  "installation": {
+    "id": 6332821
+  }
+}
