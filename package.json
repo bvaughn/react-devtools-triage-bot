@@ -17,10 +17,12 @@
     "dev": "nodemon",
     "start": "probot run ./index.js",
     "lint": "standard --fix",
+    "prettier": "prettier --write '**/*.{js,json,css}'",
     "test": "jest && standard",
     "test:watch": "jest --watch --notify --notifyMode=change --coverage"
   },
   "dependencies": {
+    "prettier": "^1.19.1",
     "probot": "^9.5.3"
   },
   "devDependencies": {
